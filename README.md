@@ -26,9 +26,7 @@ The Vehicle Parking Management System is a web-based application developed using
 - `database.sql` – Database file
 
 ## Future Enhancements
-- QR code-based parking
 - Online parking reservation
-- Payment gateway integration
 - Parking availability dashboard
 
 ## Author
